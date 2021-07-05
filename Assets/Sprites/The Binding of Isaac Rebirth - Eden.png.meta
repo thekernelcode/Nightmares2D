@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: c4f7255480cd76947a2cfaea9964649e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4495885220253697637
+    second: The Binding of Isaac Rebirth - Eden_0
+  - first:
+      213: -2317133368671553381
+    second: The Binding of Isaac Rebirth - Eden_1
+  - first:
+      213: -9171558709526437692
+    second: The Binding of Isaac Rebirth - Eden_2
+  - first:
+      213: 5045132161260382136
+    second: The Binding of Isaac Rebirth - Eden_3
+  - first:
+      213: -4073638644790842396
+    second: The Binding of Isaac Rebirth - Eden_4
+  - first:
+      213: 9010374557294265693
+    second: The Binding of Isaac Rebirth - Eden_5
+  - first:
+      213: -2499585478108970530
+    second: The Binding of Isaac Rebirth - Eden_6
+  - first:
+      213: 4667714481476997545
+    second: The Binding of Isaac Rebirth - Eden_7
+  - first:
+      213: -558589088611322473
+    second: The Binding of Isaac Rebirth - Eden_8
+  - first:
+      213: 6352982409001897040
+    second: The Binding of Isaac Rebirth - Eden_9
+  - first:
+      213: 5840343612002345233
+    second: The Binding of Isaac Rebirth - Eden_10
+  - first:
+      213: -429960848662970232
+    second: The Binding of Isaac Rebirth - Eden_11
+  - first:
+      213: 6879269420833376278
+    second: The Binding of Isaac Rebirth - Eden_12
+  - first:
+      213: -8137303748789955708
+    second: The Binding of Isaac Rebirth - Eden_13
+  - first:
+      213: -52282169449162123
+    second: The Binding of Isaac Rebirth - Eden_14
+  - first:
+      213: -6856329281184715800
+    second: The Binding of Isaac Rebirth - Eden_15
+  - first:
+      213: -3713088949428736345
+    second: The Binding of Isaac Rebirth - Eden_16
+  - first:
+      213: -3920935877035241576
+    second: The Binding of Isaac Rebirth - Eden_17
+  - first:
+      213: 2296212988351881378
+    second: The Binding of Isaac Rebirth - Eden_18
+  - first:
+      213: -2028253505142165165
+    second: The Binding of Isaac Rebirth - Eden_19
+  - first:
+      213: 3116673174940163596
+    second: The Binding of Isaac Rebirth - Eden_20
+  - first:
+      213: -6352293502120986814
+    second: The Binding of Isaac Rebirth - Eden_21
+  - first:
+      213: 219182757447074253
+    second: The Binding of Isaac Rebirth - Eden_22
+  - first:
+      213: -7531087696483204054
+    second: The Binding of Isaac Rebirth - Eden_23
+  - first:
+      213: 1567989011153425086
+    second: The Binding of Isaac Rebirth - Eden_24
+  - first:
+      213: 1216673740838387236
+    second: The Binding of Isaac Rebirth - Eden_25
+  - first:
+      213: -2410954196072569645
+    second: The Binding of Isaac Rebirth - Eden_26
+  - first:
+      213: 362271892637592628
+    second: The Binding of Isaac Rebirth - Eden_27
+  - first:
+      213: -161404889113675692
+    second: The Binding of Isaac Rebirth - Eden_28
+  - first:
+      213: -5277981358244734765
+    second: The Binding of Isaac Rebirth - Eden_29
+  - first:
+      213: -7974369226581299822
+    second: The Binding of Isaac Rebirth - Eden_30
+  - first:
+      213: 1067963277584504444
+    second: The Binding of Isaac Rebirth - Eden_31
+  - first:
+      213: 6538846492153946272
+    second: The Binding of Isaac Rebirth - Eden_32
+  - first:
+      213: 3264125350666812787
+    second: The Binding of Isaac Rebirth - Eden_33
+  - first:
+      213: -6573330395840862241
+    second: The Binding of Isaac Rebirth - Eden_34
+  - first:
+      213: -2964815416177943145
+    second: The Binding of Isaac Rebirth - Eden_35
+  - first:
+      213: 4787473243341388255
+    second: The Binding of Isaac Rebirth - Eden_36
+  - first:
+      213: -1653838522981953590
+    second: The Binding of Isaac Rebirth - Eden_37
+  - first:
+      213: 6836505928500122885
+    second: The Binding of Isaac Rebirth - Eden_38
+  - first:
+      213: 852324578768722979
+    second: The Binding of Isaac Rebirth - Eden_39
+  - first:
+      213: 4891041308377672723
+    second: The Binding of Isaac Rebirth - Eden_40
+  - first:
+      213: -2897109461444357558
+    second: The Binding of Isaac Rebirth - Eden_41
+  - first:
+      213: -5067863045222009196
+    second: The Binding of Isaac Rebirth - Eden_42
+  - first:
+      213: -5257193242919895558
+    second: The Binding of Isaac Rebirth - Eden_43
+  - first:
+      213: 6120660463691018226
+    second: The Binding of Isaac Rebirth - Eden_44
+  - first:
+      213: 8574744212142297187
+    second: The Binding of Isaac Rebirth - Eden_45
+  - first:
+      213: -2461923368425211219
+    second: The Binding of Isaac Rebirth - Eden_46
+  - first:
+      213: -358317265549972291
+    second: The Binding of Isaac Rebirth - Eden_47
+  - first:
+      213: -8714084692111835499
+    second: The Binding of Isaac Rebirth - Eden_48
+  - first:
+      213: 4490878719029346753
+    second: The Binding of Isaac Rebirth - Eden_49
+  - first:
+      213: 8636466696066113446
+    second: The Binding of Isaac Rebirth - Eden_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9979df56386b91c0800000000000000
+      internalID: -4495885220253697637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 297
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b0275a73e7dfd0800000000000000
+      internalID: -2317133368671553381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 298
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0690a52f318b080800000000000000
+      internalID: -9171558709526437692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 297
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e2dc68f8e30640800000000000000
+      internalID: 5045132161260382136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 298
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb20f15c378777c0800000000000000
+      internalID: -4073638644790842396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 297
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d550ebcbbe74b0d70800000000000000
+      internalID: 9010374557294265693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 298
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed107934040bf4dd0800000000000000
+      internalID: -2499585478108970530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 299
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1126d179d07c040800000000000000
+      internalID: 4667714481476997545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 208
+        width: 14
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b9e5fe2e7f38f0800000000000000
+      internalID: -558589088611322473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c0dd867d35a2850800000000000000
+      internalID: 6352982409001897040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112f9752911d0150800000000000000
+      internalID: 5840343612002345233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804e1cd2e8780af0800000000000000
+      internalID: -429960848662970232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 266
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180bfe1713187f50800000000000000
+      internalID: 6879269420833376278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 267
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839bef8a5d721f80800000000000000
+      internalID: -8137303748789955708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a55e5d4a1464ff0800000000000000
+      internalID: -52282169449162123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb20eb58dc69d0a0800000000000000
+      internalID: -6856329281184715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 268
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2fd5f545787cc0800000000000000
+      internalID: -3713088949428736345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fca3608990699c0800000000000000
+      internalID: -3920935877035241576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 236
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02a5b0c89cddf10800000000000000
+      internalID: 2296212988351881378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 236
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517f87ee223ad3e0800000000000000
+      internalID: -2028253505142165165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 236
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e1c416db5a04b20800000000000000
+      internalID: 3116673174940163596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 236
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2477e0937be18d7a0800000000000000
+      internalID: -6352293502120986814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 236
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1068e7e81ba0300800000000000000
+      internalID: 219182757447074253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 236
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cdc634a33c7790800000000000000
+      internalID: -7531087696483204054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 236
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21485b2bd92c510800000000000000
+      internalID: 1567989011153425086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 204
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb732325e72e010800000000000000
+      internalID: 1216673740838387236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 204
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d46b55bee19a8ed0800000000000000
+      internalID: -2410954196072569645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 198
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca5c0fd5c070500800000000000000
+      internalID: 362271892637592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583e57cb1392cdf0800000000000000
+      internalID: -161404889113675692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d850ba2be7d0c6b0800000000000000
+      internalID: -5277981358244734765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 140
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29da0dd3079555190800000000000000
+      internalID: -7974369226581299822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 136
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76169151fa22de00800000000000000
+      internalID: 1067963277584504444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a025a58d36aeba50800000000000000
+      internalID: 6538846492153946272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 76
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37db7dc56b08c4d20800000000000000
+      internalID: 3264125350666812787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a0acf4d6d6c4a0800000000000000
+      internalID: -6573330395840862241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 74
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9c16561cdad6d0800000000000000
+      internalID: -2964815416177943145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 74
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9fc09bc85807240800000000000000
+      internalID: 4787473243341388255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 74
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfcdc130a26c09e0800000000000000
+      internalID: -1653838522981953590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 74
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051a1dabe520ee50800000000000000
+      internalID: 6836505928500122885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 58
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c18d640b014db00800000000000000
+      internalID: 852324578768722979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 53
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cec97f72870e340800000000000000
+      internalID: 4891041308377672723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 58
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429f2b5b466bc7d0800000000000000
+      internalID: -2897109461444357558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496763b39655ba9b0800000000000000
+      internalID: -5067863045222009196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 39
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfc207992ba07b0800000000000000
+      internalID: -5257193242919895558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffa4195344f0f450800000000000000
+      internalID: 6120660463691018226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36014941e6c9ff670800000000000000
+      internalID: 8574744212142297187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa38c08dbd75ddd0800000000000000
+      internalID: -2461923368425211219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc210e6850070bf0800000000000000
+      internalID: -358317265549972291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3108442a511780800000000000000
+      internalID: -8714084692111835499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 37
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c10b19b66ec25e30800000000000000
+      internalID: 4490878719029346753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Binding of Isaac Rebirth - Eden_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af138db3b4ead770800000000000000
+      internalID: 8636466696066113446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
