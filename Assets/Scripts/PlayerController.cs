@@ -53,10 +53,24 @@ public class PlayerController : MonoBehaviour
 
     void Shoot(float x, float y)
     {
-        GameObject bullet = Instantiate(bulletPrefab, transform.position, transform.rotation) as GameObject;
+        GameObject bullet = Instantiate(bulletPrefab, new Vector3(transform.position.x + 0.6f, transform.position.y-.3f, transform.position.z), transform.rotation) as GameObject;
         bullet.AddComponent<Rigidbody2D>().gravityScale = 0;
-        bullet.GetComponent<Rigidbody2D>().velocity = new Vector3((x < 0) ? Mathf.Floor(x) * bulletSpeed : Mathf.Ceil(x) * bulletSpeed,
-                                                                  (y < 0) ? Mathf.Floor(y) * bulletSpeed : Mathf.Ceil(y) * bulletSpeed,
-                                                                  0);
+        StartCoroutine(RotateObject(bullet));
+        bullet.transform.SetParent(transform);
+
+        //TODO - Make sure bullet follows player.  need it transform.position to be equal to the parent.
+
+    }
+
+    public IEnumerator RotateObject(GameObject go)
+    {
+        float timer = 0f;
+        while(timer <= go.GetComponent<BulletController>().lifeTime)
+        {
+            go.transform.Rotate(new Vector3(0, 0, 01) * bulletSpeed * Time.deltaTime);
+            timer += Time.deltaTime;
+            yield return null;
+            //TODO Make sure object destroys itself before coroutine ends
+        }
     }
 }
