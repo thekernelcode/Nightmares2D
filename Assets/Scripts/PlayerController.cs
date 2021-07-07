@@ -53,12 +53,15 @@ public class PlayerController : MonoBehaviour
 
     void Shoot(float x, float y)
     {
-        GameObject bullet = Instantiate(bulletPrefab, new Vector3(transform.position.x + 0.6f, transform.position.y-.3f, transform.position.z), transform.rotation) as GameObject;
-        bullet.AddComponent<Rigidbody2D>().gravityScale = 0;
+        Quaternion rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, transform.rotation.z - 30f);
+        GameObject bullet = Instantiate(bulletPrefab, new Vector3(transform.position.x + 0.6f, transform.position.y, transform.position.z),
+                            (rotation)) as GameObject;
+
+        //bullet.AddComponent<Rigidbody2D>().gravityScale = 0;
         StartCoroutine(RotateObject(bullet));
         bullet.transform.SetParent(transform);
 
-        //TODO - Make sure bullet follows player.  need it transform.position to be equal to the parent.
+        //TODO - Make sure bullet follows player.  need it transform.position to be equal to the parent.  //HACK Had to remove RB2D to achieve this.
 
     }
 
